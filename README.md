@@ -13,7 +13,7 @@ A Jupyter-based agent that leverages LangChain and OpenAI to perform common data
 1. Clone the repository and enter its folder
 
    ```bash
-   git clone https://github.com/your-username/data-cleaning-agent.git
+   git clone https://github.com/Tchanwangsa/data-cleaning-agent.git
    cd data-cleaning-agent
    ```
 
